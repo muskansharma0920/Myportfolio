@@ -115,7 +115,7 @@ function App() {
                     <p class="card-text">
                       This is a project made with complete React js.
                     </p>
-                    <a href="https://github.com/muskansharma0920/Portfolio" class="btn btn-primary">More</a>
+                    <a href="https://github.com/muskansharma0920/Myportfolio" class="btn btn-primary">More</a>
                   </div>
                 </div>
               </div>
